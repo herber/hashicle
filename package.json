@@ -10,7 +10,7 @@
     "url": "tobihrbr.com"
   },
   "engines": {
-    "node": ">=6"
+    "node": ">=4"
   },
   "scripts": {
     "test": "nyc ava",
@@ -37,6 +37,7 @@
   "dependencies": {},
   "devDependencies": {
     "ava": "^0.17.0",
+    "coveralls": "^2.13.1",
     "fyi": "^1.0.1",
     "nyc": "^11.1.0"
   }

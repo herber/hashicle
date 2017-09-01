@@ -1,4 +1,4 @@
-# hashicle [![Build Status](https://travis-ci.org/tobihrbr/hashicle.svg?branch=master)](https://travis-ci.org/tobihrbr/hashicle)
+# hashicle [![Build Status](https://travis-ci.org/tobihrbr/hashicle.svg?branch=master)](https://travis-ci.org/tobihrbr/hashicle) [![Build status](https://ci.appveyor.com/api/projects/status/ii9qvh69xajoccpp?svg=true)](https://ci.appveyor.com/project/tobihrbr/hashicle) [![Coverage Status](https://coveralls.io/repos/github/tobihrbr/hashicle/badge.svg?branch=master)](https://coveralls.io/github/tobihrbr/hashicle?branch=master)
 
 > Generate hashes
 
